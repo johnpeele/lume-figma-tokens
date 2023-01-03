@@ -174,13 +174,6 @@
   --lume-line-heights-0: 100%;
   --lume-line-heights-1: 120%;
   --lume-line-heights-2: 150%;
-  --lume-font-weights-itc-avant-garde-gothic-pro-demi: Demi;
-  --lume-font-weights-open-sans-semibold: SemiBold;
-  --lume-font-weights-open-sans-bold: Bold;
-  --lume-font-weights-open-sans-regular: Regular;
-  --lume-font-weights-monaco-regular: Regular;
-  --lume-font-weights-jetbrains-mono-regular: Regular;
-  --lume-font-weights-sf-mono-regular: Regular;
   --lume-font-size-0: 12;
   --lume-font-size-1: 14;
   --lume-font-size-2: 16;
@@ -210,4 +203,11 @@
   --lume-text-case-none: none;
   --lume-text-case-uppercase: uppercase;
   --lume-text-decoration-none: none;
+  --lume-font-weights-itc-avant-garde-gothic-pro-demi: Demi;
+  --lume-font-weights-open-sans-semibold: SemiBold;
+  --lume-font-weights-open-sans-bold: Bold;
+  --lume-font-weights-open-sans-regular: Regular;
+  --lume-font-weights-monaco-regular: Regular;
+  --lume-font-weights-jetbrains-mono-regular: Regular;
+  --lume-font-weights-sf-mono-regular: Regular;
 }

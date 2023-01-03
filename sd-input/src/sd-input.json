@@ -995,46 +995,6 @@
       "type": "lineHeights"
     }
   },
-  "fontWeights": {
-    "itc-avant-garde-gothic-pro": {
-      "demi": {
-        "value": "Demi",
-        "type": "fontWeights"
-      }
-    },
-    "open-sans": {
-      "semibold": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "monaco": {
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "jetbrains-mono": {
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "sf-mono": {
-      "regular": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    }
-  },
   "fontSize": {
     "0": {
       "value": 12,
@@ -1169,7 +1129,7 @@
       "value": {
         "fontFamily": "{fontFamilies.open-sans}",
         "fontWeight": "{fontWeights.open-sans.bold}",
-        "lineHeight": "{lineHeights.2}",
+        "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.0}",
         "letterSpacing": "{letterSpacing.1}",
         "paragraphSpacing": "{paragraphSpacing.0}",
@@ -1177,7 +1137,8 @@
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "Menu section titles, group titles"
     }
   },
   "text": {
@@ -1208,7 +1169,8 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography"
+      "type": "typography",
+      "description": "Default type, used frequently"
     },
     "smaller": {
       "value": {
@@ -1314,6 +1276,46 @@
     "none": {
       "value": "none",
       "type": "textDecoration"
+    }
+  },
+  "fontWeights": {
+    "itc-avant-garde-gothic-pro": {
+      "demi": {
+        "value": "Demi",
+        "type": "fontWeights"
+      }
+    },
+    "open-sans": {
+      "semibold": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "monaco": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "jetbrains-mono": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "sf-mono": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
     }
   }
 }
