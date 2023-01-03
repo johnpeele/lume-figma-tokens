@@ -819,22 +819,6 @@
           "description": "--lume-g-color-red-95\n#fef1ee"
         }
       }
-    },
-    "button": {
-      "primary": {
-        "background": {
-          "value": "{base.indigo.50}",
-          "type": "color",
-          "description": "--lume-c-button-primary-background\n#5867e8"
-        }
-      },
-      "secondary": {
-        "background": {
-          "value": "{base.neutral.95}",
-          "type": "color",
-          "description": "--lume-c-button-secondary-background\n#f3f3f3"
-        }
-      }
     }
   },
   "$themes": [],
