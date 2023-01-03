@@ -68,11 +68,6 @@
           "value": "#f3f3f3",
           "type": "color",
           "description": "--lume-g-color-neutral-95\n#f3f3f3"
-        },
-        "100": {
-          "value": "#ffffff",
-          "type": "color",
-          "description": "--lume-g-color-neutral-100\n#ffffff"
         }
       },
       "blue": {
