@@ -1,820 +1,5 @@
 {
-  "core": {
-    "base": {
-      "white": {
-        "100": {
-          "value": "#ffffff",
-          "type": "color",
-          "description": "--lume-g-color-neutral-100\n#ffffff"
-        }
-      },
-      "neutral": {
-        "10": {
-          "value": "#181818",
-          "type": "color",
-          "description": "--lume-g-color-neutral-10\n#181818"
-        },
-        "15": {
-          "value": "#242424",
-          "type": "color",
-          "description": "--lume-g-color-neutral-15\n#242424"
-        },
-        "20": {
-          "value": "#2e2e2e",
-          "type": "color",
-          "description": "--lume-g-color-neutral-20\n#2e2e2e"
-        },
-        "30": {
-          "value": "#444444",
-          "type": "color",
-          "description": "--lume-g-color-neutral-30\n#444444"
-        },
-        "40": {
-          "value": "#5c5c5c",
-          "type": "color",
-          "description": "--lume-g-color-neutral-40\n#5c5c5c"
-        },
-        "50": {
-          "value": "#747474",
-          "type": "color",
-          "description": "--lume-g-color-neutral-50\n#747474"
-        },
-        "60": {
-          "value": "#939393",
-          "type": "color",
-          "description": "--lume-g-color-neutral-60\n#939393"
-        },
-        "65": {
-          "value": "#a0a0a0",
-          "type": "color",
-          "description": "--lume-g-color-neutral-65\n#a0a0a0"
-        },
-        "70": {
-          "value": "#aeaeae",
-          "type": "color",
-          "description": "--lume-g-color-neutral-70\n#aeaeae"
-        },
-        "80": {
-          "value": "#c9c9c9",
-          "type": "color",
-          "description": "--lume-g-color-neutral-80\n#c9c9c9"
-        },
-        "90": {
-          "value": "#e5e5e5",
-          "type": "color",
-          "description": "--lume-g-color-neutral-90\n#e5e5e5"
-        },
-        "95": {
-          "value": "#f3f3f3",
-          "type": "color",
-          "description": "--lume-g-color-neutral-95\n#f3f3f3"
-        }
-      },
-      "blue": {
-        "10": {
-          "value": "#001639",
-          "type": "color",
-          "description": "--lume-g-color-blue-10\n#001639"
-        },
-        "15": {
-          "value": "#03234d",
-          "type": "color",
-          "description": "--lume-g-color-blue-15\n#03234d"
-        },
-        "20": {
-          "value": "#032d60",
-          "type": "color",
-          "description": "--lume-g-color-blue-20\n#032d60"
-        },
-        "30": {
-          "value": "#014486",
-          "type": "color",
-          "description": "--lume-g-color-blue-30\n#014486"
-        },
-        "40": {
-          "value": "#0b5cab",
-          "type": "color",
-          "description": "--lume-g-color-blue-40\n#0b5cab"
-        },
-        "50": {
-          "value": "#0176d3",
-          "type": "color",
-          "description": "--lume-g-color-blue-50\n#0176d3"
-        },
-        "60": {
-          "value": "#1b96ff",
-          "type": "color",
-          "description": "--lume-g-color-blue-60\n1b96ff"
-        },
-        "65": {
-          "value": "#57a3fd",
-          "type": "color",
-          "description": "--lume-g-color-blue-65\n#57a3fd"
-        },
-        "70": {
-          "value": "#78b0fd",
-          "type": "color",
-          "description": "--lume-g-color-blue-70\n#78b0fd"
-        },
-        "80": {
-          "value": "#aacbff",
-          "type": "color",
-          "description": "--lume-g-color-blue-80\n#aacbff"
-        },
-        "90": {
-          "value": "#d8e6fe",
-          "type": "color",
-          "description": "--lume-g-color-blue-90\n#d8e6fe"
-        },
-        "95": {
-          "value": "#eef4ff",
-          "type": "color",
-          "description": "--lume-g-color-blue-95\n#eef4ff"
-        }
-      },
-      "indigo": {
-        "10": {
-          "value": "#200647",
-          "type": "color",
-          "description": "--lume-g-color-indigo-10\n#200647"
-        },
-        "15": {
-          "value": "#1f0974",
-          "type": "color",
-          "description": "--lume-g-color-indigo-15\n#1f0974"
-        },
-        "20": {
-          "value": "#321d71",
-          "type": "color",
-          "description": "--lume-g-color-indigo-20\n#321d71"
-        },
-        "30": {
-          "value": "#2f2cb7",
-          "type": "color",
-          "description": "--lume-g-color-indigo-30\n#2f2cb7"
-        },
-        "40": {
-          "value": "#3a49da",
-          "type": "color",
-          "description": "--lume-g-color-indigo-40\n#3a49da"
-        },
-        "50": {
-          "value": "#5867e8",
-          "type": "color",
-          "description": "--lume-g-color-indigo-50\n#5867e8"
-        },
-        "60": {
-          "value": "#7f8ced",
-          "type": "color",
-          "description": "--lume-g-color-indigo-60\n#7f8ced"
-        },
-        "65": {
-          "value": "#8e9bef",
-          "type": "color",
-          "description": "--lume-g-color-indigo-65\n#8e9bef"
-        },
-        "70": {
-          "value": "#9ea9f1",
-          "type": "color",
-          "description": "--lume-g-color-indigo-70\n#9ea9f1"
-        },
-        "80": {
-          "value": "#bec7f6",
-          "type": "color",
-          "description": "--lume-g-color-indigo-80\n#bec7f6"
-        },
-        "90": {
-          "value": "#e0e5f8",
-          "type": "color",
-          "description": "--lume-g-color-indigo-90\n#e0e5f8"
-        },
-        "95": {
-          "value": "#f1f3fb",
-          "type": "color",
-          "description": "--lume-g-color-indigo-95\n#f1f3fb"
-        }
-      },
-      "hot orange": {
-        "10": {
-          "value": "#281202",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-10\n#281202"
-        },
-        "15": {
-          "value": "#421604",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-15\n#421604"
-        },
-        "20": {
-          "value": "#4a2413",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-20\n#4a2413"
-        },
-        "30": {
-          "value": "#7e2600",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-30\n#7e2600"
-        },
-        "40": {
-          "value": "#aa3001",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-40\n#aa3001"
-        },
-        "50": {
-          "value": "#d83a00",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-50\n#d83a00"
-        },
-        "60": {
-          "value": "#ff5d2d",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-60\n#ff5d2d"
-        },
-        "65": {
-          "value": "#ff784f",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-65\n#ff784f"
-        },
-        "70": {
-          "value": "#ff906e",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-70\n#ff906e"
-        },
-        "80": {
-          "value": "#feb9a5",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-80\n#feb9a5"
-        },
-        "90": {
-          "value": "#ffded5",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-90\n#ffded5"
-        },
-        "95": {
-          "value": "#fef1ed",
-          "type": "color",
-          "description": "--lume-g-color-hot-orange-95\n#f3f1ed"
-        }
-      },
-      "orange": {
-        "10": {
-          "value": "#201600",
-          "type": "color",
-          "description": "--lume-g-color-orange-10\n#201600"
-        },
-        "15": {
-          "value": "#371e03",
-          "type": "color",
-          "description": "--lume-g-color-orange-15\n#371e03"
-        },
-        "20": {
-          "value": "#3e2b02",
-          "type": "color",
-          "description": "--lume-g-color-orange-20\n#3e2b02"
-        },
-        "30": {
-          "value": "#5f3e02",
-          "type": "color",
-          "description": "--lume-g-color-orange-30\n#5f3e02"
-        },
-        "40": {
-          "value": "#825101",
-          "type": "color",
-          "description": "--lume-g-color-orange-40\n#825101"
-        },
-        "50": {
-          "value": "#a96404",
-          "type": "color",
-          "description": "--lume-g-color-orange-50\n#a96404"
-        },
-        "60": {
-          "value": "#dd7a01",
-          "type": "color",
-          "description": "--lume-g-color-orange-60\n#dd7a01"
-        },
-        "65": {
-          "value": "#f38303",
-          "type": "color",
-          "description": "--lume-g-color-orange-65\n#f38303"
-        },
-        "70": {
-          "value": "#fe9339",
-          "type": "color",
-          "description": "--lume-g-color-orange-70\n#fe9339"
-        },
-        "80": {
-          "value": "#ffba90",
-          "type": "color",
-          "description": "--lume-g-color-orange-80\n#ffba90"
-        },
-        "90": {
-          "value": "#fedfd0",
-          "type": "color",
-          "description": "--lume-g-color-orange-90\n#fedfd0"
-        },
-        "95": {
-          "value": "#fff1ea",
-          "type": "color",
-          "description": "--lume-g-color-orange-95\n#fff1ea"
-        }
-      },
-      "yellow": {
-        "10": {
-          "value": "#281202",
-          "type": "color",
-          "description": "--lume-g-color-yellow-10\n#281202"
-        },
-        "15": {
-          "value": "#2e2204",
-          "type": "color",
-          "description": "--lume-g-color-yellow-15\n#2e2204"
-        },
-        "20": {
-          "value": "#4f2100",
-          "type": "color",
-          "description": "--lume-g-color-yellow-20\n#4f2100"
-        },
-        "30": {
-          "value": "#6f3400",
-          "type": "color",
-          "description": "--lume-g-color-yellow-30\n#6f3400"
-        },
-        "40": {
-          "value": "#8c4b02",
-          "type": "color",
-          "description": "--lume-g-color-yellow-40\n#bc4b02"
-        },
-        "50": {
-          "value": "#a86403",
-          "type": "color",
-          "description": "--lume-g-color-yellow-50\n#a86403"
-        },
-        "60": {
-          "value": "#ca8501",
-          "type": "color",
-          "description": "--lume-g-color-yellow-60\n#ca8501"
-        },
-        "65": {
-          "value": "#d79304",
-          "type": "color",
-          "description": "--lume-g-color-yellow-65\n#d79304"
-        },
-        "70": {
-          "value": "#e4a201",
-          "type": "color",
-          "description": "--lume-g-color-yellow-70\n#e4a201"
-        },
-        "80": {
-          "value": "#fcc003",
-          "type": "color",
-          "description": "--lume-g-color-yellow-80\n#fcc003"
-        },
-        "90": {
-          "value": "#f9e3b6",
-          "type": "color",
-          "description": "--lume-g-color-yellow-90\n#f9e3b6"
-        },
-        "95": {
-          "value": "#fbf3e0",
-          "type": "color",
-          "description": "--lume-g-color-yellow-95\n#fbf3e0"
-        }
-      },
-      "green": {
-        "10": {
-          "value": "#071b12",
-          "type": "color",
-          "description": "--lume-g-color-green-10\n#071b12"
-        },
-        "15": {
-          "value": "#0c2912",
-          "type": "color",
-          "description": "--lume-g-color-green-15\n#0c2912"
-        },
-        "20": {
-          "value": "#1c3326",
-          "type": "color",
-          "description": "--lume-g-color-green-20\n#1c3326"
-        },
-        "30": {
-          "value": "#194e31",
-          "type": "color",
-          "description": "--lume-g-color-green-30\n#294e31"
-        },
-        "40": {
-          "value": "#396547",
-          "type": "color",
-          "description": "--lume-g-color-green-40\n#396547"
-        },
-        "50": {
-          "value": "#2e844a",
-          "type": "color",
-          "description": "--lume-g-color-green-50\n#2e844a"
-        },
-        "60": {
-          "value": "#3ba755",
-          "type": "color",
-          "description": "--lume-g-color-green-60\n#3ba755"
-        },
-        "65": {
-          "value": "#41b658",
-          "type": "color",
-          "description": "--lume-g-color-green-65\n#41b658"
-        },
-        "70": {
-          "value": "#45c65a",
-          "type": "color",
-          "description": "--lume-g-color-green-70\n#45c65a"
-        },
-        "80": {
-          "value": "#91db8b",
-          "type": "color",
-          "description": "--lume-g-color-green-80\n#91db8b"
-        },
-        "90": {
-          "value": "#cdefc4",
-          "type": "color",
-          "description": "--lume-g-color-green-90\n#cdefc4"
-        },
-        "95": {
-          "value": "#ebf7e6",
-          "type": "color",
-          "description": "--lume-g-color-green-95\n#ebf7e6"
-        }
-      },
-      "teal": {
-        "10": {
-          "value": "#071b12",
-          "type": "color",
-          "description": "--lume-g-color-teal-10\n#071b12"
-        },
-        "15": {
-          "value": "#072825",
-          "type": "color",
-          "description": "--lume-g-color-teal-15\n#072825"
-        },
-        "20": {
-          "value": "#023434",
-          "type": "color",
-          "description": "--lume-g-color-teal-20\n#023434"
-        },
-        "30": {
-          "value": "#024d4c",
-          "type": "color",
-          "description": "--lume-g-color-teal-30\n#024d4c"
-        },
-        "40": {
-          "value": "#056764",
-          "type": "color",
-          "description": "--lume-g-color-teal-40\n#056764"
-        },
-        "50": {
-          "value": "#0b827c",
-          "type": "color",
-          "description": "--lume-g-color-teal-50\n#0b827c"
-        },
-        "60": {
-          "value": "#06a59a",
-          "type": "color",
-          "description": "--lume-g-color-teal-60\n#06a59a"
-        },
-        "65": {
-          "value": "#03b4a7",
-          "type": "color",
-          "description": "--lume-g-color-teal-65\n#03b4a7"
-        },
-        "70": {
-          "value": "#01c3b3",
-          "type": "color",
-          "description": "--lume-g-color-teal-70\n#01c3b3"
-        },
-        "80": {
-          "value": "#04e1cb",
-          "type": "color",
-          "description": "--lume-g-color-teal-80\n#04e1cb"
-        },
-        "90": {
-          "value": "#acf3e4",
-          "type": "color",
-          "description": "--lume-g-color-teal-90\n#acf3e4"
-        },
-        "95": {
-          "value": "#def9f3",
-          "type": "color",
-          "description": "--lume-g-color-teal-95\n#def9f3"
-        }
-      },
-      "cloud blue": {
-        "10": {
-          "value": "#001a28",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-10\n#001a28"
-        },
-        "15": {
-          "value": "#0a2636",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-15\n#0a2636"
-        },
-        "20": {
-          "value": "#023248",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-20\n#023248"
-        },
-        "30": {
-          "value": "#084968",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-30\n#084968"
-        },
-        "40": {
-          "value": "#05628a",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-40\n#05628a"
-        },
-        "50": {
-          "value": "#107cad",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-50\n#107cad"
-        },
-        "60": {
-          "value": "#0d9dda",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-60\n#0d9dda"
-        },
-        "65": {
-          "value": "#08abed",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-65\n#08abed"
-        },
-        "70": {
-          "value": "#1ab9ff",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-70\n#1ab9ff"
-        },
-        "80": {
-          "value": "#90d0fe",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-80\n#90d0fe"
-        },
-        "90": {
-          "value": "#cfe9fe",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-90\n#cfe9fe"
-        },
-        "95": {
-          "value": "#eaf5fe",
-          "type": "color",
-          "description": "--lume-g-color-cloud-blue-95\n#eaf5fe"
-        }
-      },
-      "purple": {
-        "10": {
-          "value": "#240643",
-          "type": "color",
-          "description": "--lume-g-color-purple-10\n#240643"
-        },
-        "15": {
-          "value": "#300b60",
-          "type": "color",
-          "description": "--lume-g-color-purple-15\n#300b60"
-        },
-        "20": {
-          "value": "#401075",
-          "type": "color",
-          "description": "--lume-g-color-purple-20\n#401075"
-        },
-        "30": {
-          "value": "#5a1ba9",
-          "type": "color",
-          "description": "--lume-g-color-purple-30\n#5a1ba9"
-        },
-        "40": {
-          "value": "#7526e3",
-          "type": "color",
-          "description": "--lume-g-color-purple-40\n#7526e3"
-        },
-        "50": {
-          "value": "#9050e9",
-          "type": "color",
-          "description": "--lume-g-color-purple-50\n#9050e9"
-        },
-        "60": {
-          "value": "#ad7bee",
-          "type": "color",
-          "description": "--lume-g-color-purple-60\n#ad7bee"
-        },
-        "65": {
-          "value": "#b78def",
-          "type": "color",
-          "description": "--lume-g-color-purple-65\n#b78def"
-        },
-        "70": {
-          "value": "#c29ef1",
-          "type": "color",
-          "description": "--lume-g-color-purple-70\n#c29ef1"
-        },
-        "80": {
-          "value": "#d7bff2",
-          "type": "color",
-          "description": "--lume-g-color-purple-80\n#d7bff2"
-        },
-        "90": {
-          "value": "#ece1f9",
-          "type": "color",
-          "description": "--lume-g-color-purple-90\n#ece1f9"
-        },
-        "95": {
-          "value": "#f6f2fb",
-          "type": "color",
-          "description": "--lume-g-color-purple-95\n#f6f2fb"
-        }
-      },
-      "violet": {
-        "10": {
-          "value": "#2e0039",
-          "type": "color",
-          "description": "--lume-g-color-violet-10\n#2e0039"
-        },
-        "15": {
-          "value": "#3d0157",
-          "type": "color",
-          "description": "--lume-g-color-violet-15\n#3d0157"
-        },
-        "20": {
-          "value": "#481a54",
-          "type": "color",
-          "description": "--lume-g-color-violet-20\n#481a54"
-        },
-        "30": {
-          "value": "#730394",
-          "type": "color",
-          "description": "--lume-g-color-violet-30\n#730394"
-        },
-        "40": {
-          "value": "#9602c7",
-          "type": "color",
-          "description": "--lume-g-color-violet-40\n#9602c7"
-        },
-        "50": {
-          "value": "#ba01ff",
-          "type": "color",
-          "description": "--lume-g-color-violet-50\n#ba01ff"
-        },
-        "60": {
-          "value": "#cb65ff",
-          "type": "color",
-          "description": "--lume-g-color-violet-60\n#cb65ff"
-        },
-        "65": {
-          "value": "#d17dfe",
-          "type": "color",
-          "description": "--lume-g-color-violet-65\n#d17dfe"
-        },
-        "70": {
-          "value": "#d892fe",
-          "type": "color",
-          "description": "--lume-g-color-violet-70\n#d892fe"
-        },
-        "80": {
-          "value": "#e5b9fe",
-          "type": "color",
-          "description": "--lume-g-color-violet-80\n#e5b9fe"
-        },
-        "90": {
-          "value": "#f2defe",
-          "type": "color",
-          "description": "--lume-g-color-violet-90\n#f2defe"
-        },
-        "95": {
-          "value": "#f9f0ff",
-          "type": "color",
-          "description": "--lume-g-color-violet-95\n#f9f0ff"
-        }
-      },
-      "pink": {
-        "10": {
-          "value": "#370114",
-          "type": "color",
-          "description": "--lume-g-color-pink-10\n#370114"
-        },
-        "15": {
-          "value": "#4b0620",
-          "type": "color",
-          "description": "--lume-g-color-pink-15\n#4b0620"
-        },
-        "20": {
-          "value": "#61022a",
-          "type": "color",
-          "description": "--lume-g-color-pink-20\n#61022a"
-        },
-        "30": {
-          "value": "#8a033e",
-          "type": "color",
-          "description": "--lume-g-color-pink-30\n#8a033e"
-        },
-        "40": {
-          "value": "#b60554",
-          "type": "color",
-          "description": "--lume-g-color-pink-40\n#b60554"
-        },
-        "50": {
-          "value": "#e3066a",
-          "type": "color",
-          "description": "--lume-g-color-pink-50\n#e3066a"
-        },
-        "60": {
-          "value": "#ff538a",
-          "type": "color",
-          "description": "--lume-g-color-pink-60\nff538a"
-        },
-        "65": {
-          "value": "#fe7298",
-          "type": "color",
-          "description": "--lume-g-color-pink-65\nfe7298"
-        },
-        "70": {
-          "value": "#fe8aa7",
-          "type": "color",
-          "description": "--lume-g-color-pink-70\n#fe8aa7"
-        },
-        "80": {
-          "value": "#fdb6c5",
-          "type": "color",
-          "description": "--lume-g-color-pink-80\n#fdb6c5"
-        },
-        "90": {
-          "value": "#fddde3",
-          "type": "color",
-          "description": "--lume-g-color-pink-90\n#fddde3"
-        },
-        "95": {
-          "value": "#fef0f3",
-          "type": "color",
-          "description": "--lume-g-color-pink-95\n#fef0f3"
-        }
-      },
-      "red": {
-        "10": {
-          "value": "#300c01",
-          "type": "color",
-          "description": "--lume-g-color-red-10\n#300c01"
-        },
-        "15": {
-          "value": "#4a0c04",
-          "type": "color",
-          "description": "--lume-g-color-red-15\n#4a0c04"
-        },
-        "20": {
-          "value": "#640103",
-          "type": "color",
-          "description": "--lume-g-color-red-20\n#640103"
-        },
-        "30": {
-          "value": "#8e030f",
-          "type": "color",
-          "description": "--lume-g-color-red-30\n#8e030f"
-        },
-        "40": {
-          "value": "#ba0517",
-          "type": "color",
-          "description": "--lume-g-color-red-40\n#ba0517"
-        },
-        "50": {
-          "value": "#ea001e",
-          "type": "color",
-          "description": "--lume-g-color-red-50\n#ea001e"
-        },
-        "60": {
-          "value": "#fe5c4c",
-          "type": "color",
-          "description": "--lume-g-color-red-60\n#fe5c4c"
-        },
-        "65": {
-          "value": "#fe7765",
-          "type": "color",
-          "description": "--lume-g-color-red-65\n#fe7765"
-        },
-        "70": {
-          "value": "#fe8f7d",
-          "type": "color",
-          "description": "--lume-g-color-70\n#fe8f7d"
-        },
-        "80": {
-          "value": "#feb8ab",
-          "type": "color",
-          "description": "--lume-g-color-red-80\n#feb8ab"
-        },
-        "90": {
-          "value": "#feded8",
-          "type": "color",
-          "description": "--lume-g-color-red-90\n#feded8"
-        },
-        "95": {
-          "value": "#fef1ee",
-          "type": "color",
-          "description": "--lume-g-color-red-95\n#fef1ee"
-        }
-      }
-    },
+  "global": {
     "shadow": {
       "level 1": {
         "value": [
@@ -955,20 +140,8 @@
       }
     },
     "fontFamilies": {
-      "itc-avant-garde-gothic-pro": {
-        "value": "ITC Avant Garde Gothic Pro",
-        "type": "fontFamilies"
-      },
-      "open-sans": {
-        "value": "Open Sans",
-        "type": "fontFamilies"
-      },
       "monaco": {
         "value": "Monaco",
-        "type": "fontFamilies"
-      },
-      "jetbrains-mono": {
-        "value": "JetBrains Mono",
         "type": "fontFamilies"
       },
       "sf-mono": {
@@ -1022,6 +195,42 @@
       "7": {
         "value": "64",
         "type": "fontSizes"
+      },
+      "base": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "ratio": {
+        "value": "1.125",
+        "type": "fontSizes"
+      },
+      "h5": {
+        "value": "roundTo({fontSize.base}*{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "h4": {
+        "value": "roundTo({fontSize.h5}*{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "h3": {
+        "value": "roundTo({fontSize.h4}*{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "h2": {
+        "value": "roundTo({fontSize.h3}*{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "h1": {
+        "value": "roundTo({fontSize.h2}*{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "smaller": {
+        "value": "roundTo({fontSize.base}/{fontSize.ratio})",
+        "type": "fontSizes"
+      },
+      "smallest": {
+        "value": "roundTo({fontSize.smaller}/{fontSize.ratio})",
+        "type": "fontSizes"
       }
     },
     "letterSpacing": {
@@ -1044,219 +253,6 @@
         "type": "paragraphSpacing"
       }
     },
-    "heading": {
-      "display 1": {
-        "value": {
-          "fontFamily": "{fontFamilies.itc-avant-garde-gothic-pro}",
-          "fontWeight": "{fontWeights.itc-avant-garde-gothic-pro.demi}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.7}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Decorative heading, used rarely"
-      },
-      "display 2": {
-        "value": {
-          "fontFamily": "{fontFamilies.itc-avant-garde-gothic-pro}",
-          "fontWeight": "{fontWeights.itc-avant-garde-gothic-pro.demi}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.6}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Banner heading, used less"
-      },
-      "display 3": {
-        "value": {
-          "fontFamily": "{fontFamilies.itc-avant-garde-gothic-pro}",
-          "fontWeight": "{fontWeights.itc-avant-garde-gothic-pro.demi}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.5}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Primary page title, used less"
-      },
-      "title 1": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.semibold}",
-          "lineHeight": "{lineHeights.1}",
-          "fontSize": "{fontSize.4}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Primary section title, used less"
-      },
-      "title 2": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.semibold}",
-          "lineHeight": "{lineHeights.1}",
-          "fontSize": "{fontSize.3}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Secondary section title, used more"
-      },
-      "eyebrow": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.bold}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.0}",
-          "letterSpacing": "{letterSpacing.1}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.uppercase}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Menu section titles, group titles"
-      }
-    },
-    "text": {
-      "default": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Default type, used frequently"
-      },
-      "default - emphasis": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.bold}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Default type, used frequently"
-      },
-      "smaller": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Secondary text, used less"
-      },
-      "smallest": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.regular}",
-          "lineHeight": "{lineHeights.0}",
-          "fontSize": "{fontSize.0}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Tertiary text, used more frequently"
-      },
-      "paragraph": {
-        "value": {
-          "fontFamily": "{fontFamilies.open-sans}",
-          "fontWeight": "{fontWeights.open-sans.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.2}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.1}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography",
-        "description": "Long form text"
-      }
-    },
-    "code": {
-      "monaco": {
-        "value": {
-          "fontFamily": "{fontFamilies.monaco}",
-          "fontWeight": "{fontWeights.monaco.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "jetbrains": {
-        "value": {
-          "fontFamily": "{fontFamilies.jetbrains-mono}",
-          "fontWeight": "{fontWeights.jetbrains-mono.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      },
-      "san francisco": {
-        "value": {
-          "fontFamily": "{fontFamilies.sf-mono}",
-          "fontWeight": "{fontWeights.sf-mono.regular}",
-          "lineHeight": "{lineHeights.2}",
-          "fontSize": "{fontSize.1}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "0",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
-      }
-    },
     "textCase": {
       "none": {
         "value": "none",
@@ -1274,33 +270,7 @@
       }
     },
     "fontWeights": {
-      "itc-avant-garde-gothic-pro": {
-        "demi": {
-          "value": "Demi",
-          "type": "fontWeights"
-        }
-      },
-      "open-sans": {
-        "semibold": {
-          "value": "SemiBold",
-          "type": "fontWeights"
-        },
-        "bold": {
-          "value": "Bold",
-          "type": "fontWeights"
-        },
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        }
-      },
       "monaco": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        }
-      },
-      "jetbrains-mono": {
         "regular": {
           "value": "Regular",
           "type": "fontWeights"
@@ -1312,12 +282,880 @@
           "type": "fontWeights"
         }
       }
+    },
+    "border-radius": {
+      "1": {
+        "value": "{border-radius.unit}",
+        "type": "borderRadius",
+        "description": "4px border radius (based off 4px base unit)"
+      },
+      "2": {
+        "value": "{border-radius.unit}*2",
+        "type": "borderRadius",
+        "description": "8px border radius (based off 4px base unit)"
+      },
+      "3": {
+        "value": "{border-radius.unit}*3",
+        "type": "borderRadius",
+        "description": "12px border radius (based off 4px base unit)"
+      },
+      "4": {
+        "value": "{border-radius.unit}*4",
+        "type": "borderRadius",
+        "description": "16px border radius (based off 4px base unit)"
+      },
+      "05": {
+        "value": "{border-radius.unit}*.5",
+        "type": "borderRadius",
+        "description": "2px border radius (based off 4px base unit)\n"
+      },
+      "unit": {
+        "value": "4",
+        "type": "borderRadius",
+        "description": "Border radius base unit, used for calculating all other values"
+      }
+    },
+    "spacing": {
+      "unit": {
+        "value": "4",
+        "type": "spacing",
+        "description": "Spacing base unit, used for calculating all other values"
+      }
+    },
+    "border-width": {
+      "1": {
+        "value": {
+          "width": "1"
+        },
+        "type": "border"
+      },
+      "2": {
+        "value": {
+          "width": "2"
+        },
+        "type": "border"
+      }
+    },
+    "Base": {
+      "White": {
+        "100": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "--lume-g-color-neutral-100\n#ffffff"
+        }
+      },
+      "Neutral": {
+        "10": {
+          "value": "#181818",
+          "type": "color",
+          "description": "--lume-g-color-neutral-10\n#181818"
+        },
+        "15": {
+          "value": "#242424",
+          "type": "color",
+          "description": "--lume-g-color-neutral-15\n#242424"
+        },
+        "20": {
+          "value": "#2e2e2e",
+          "type": "color",
+          "description": "--lume-g-color-neutral-20\n#2e2e2e"
+        },
+        "30": {
+          "value": "#444444",
+          "type": "color",
+          "description": "--lume-g-color-neutral-30\n#444444"
+        },
+        "40": {
+          "value": "#5c5c5c",
+          "type": "color",
+          "description": "--lume-g-color-neutral-40\n#5c5c5c"
+        },
+        "50": {
+          "value": "#747474",
+          "type": "color",
+          "description": "--lume-g-color-neutral-50\n#747474"
+        },
+        "60": {
+          "value": "#939393",
+          "type": "color",
+          "description": "--lume-g-color-neutral-60\n#939393"
+        },
+        "65": {
+          "value": "#a0a0a0",
+          "type": "color",
+          "description": "--lume-g-color-neutral-65\n#a0a0a0"
+        },
+        "70": {
+          "value": "#aeaeae",
+          "type": "color",
+          "description": "--lume-g-color-neutral-70\n#aeaeae"
+        },
+        "80": {
+          "value": "#c9c9c9",
+          "type": "color",
+          "description": "--lume-g-color-neutral-80\n#c9c9c9"
+        },
+        "90": {
+          "value": "#e5e5e5",
+          "type": "color",
+          "description": "--lume-g-color-neutral-90\n#e5e5e5"
+        },
+        "95": {
+          "value": "#f3f3f3",
+          "type": "color",
+          "description": "--lume-g-color-neutral-95\n#f3f3f3"
+        }
+      },
+      "Blue": {
+        "10": {
+          "value": "#001639",
+          "type": "color",
+          "description": "--lume-g-color-blue-10\n#001639"
+        },
+        "15": {
+          "value": "#03234d",
+          "type": "color",
+          "description": "--lume-g-color-blue-15\n#03234d"
+        },
+        "20": {
+          "value": "#032d60",
+          "type": "color",
+          "description": "--lume-g-color-blue-20\n#032d60"
+        },
+        "30": {
+          "value": "#014486",
+          "type": "color",
+          "description": "--lume-g-color-blue-30\n#014486"
+        },
+        "40": {
+          "value": "#0b5cab",
+          "type": "color",
+          "description": "--lume-g-color-blue-40\n#0b5cab"
+        },
+        "50": {
+          "value": "#0176d3",
+          "type": "color",
+          "description": "--lume-g-color-blue-50\n#0176d3"
+        },
+        "60": {
+          "value": "#1b96ff",
+          "type": "color",
+          "description": "--lume-g-color-blue-60\n1b96ff"
+        },
+        "65": {
+          "value": "#57a3fd",
+          "type": "color",
+          "description": "--lume-g-color-blue-65\n#57a3fd"
+        },
+        "70": {
+          "value": "#78b0fd",
+          "type": "color",
+          "description": "--lume-g-color-blue-70\n#78b0fd"
+        },
+        "80": {
+          "value": "#aacbff",
+          "type": "color",
+          "description": "--lume-g-color-blue-80\n#aacbff"
+        },
+        "90": {
+          "value": "#d8e6fe",
+          "type": "color",
+          "description": "--lume-g-color-blue-90\n#d8e6fe"
+        },
+        "95": {
+          "value": "#eef4ff",
+          "type": "color",
+          "description": "--lume-g-color-blue-95\n#eef4ff"
+        }
+      },
+      "Indigo": {
+        "10": {
+          "value": "#200647",
+          "type": "color",
+          "description": "--lume-g-color-indigo-10\n#200647"
+        },
+        "15": {
+          "value": "#1f0974",
+          "type": "color",
+          "description": "--lume-g-color-indigo-15\n#1f0974"
+        },
+        "20": {
+          "value": "#321d71",
+          "type": "color",
+          "description": "--lume-g-color-indigo-20\n#321d71"
+        },
+        "30": {
+          "value": "#2f2cb7",
+          "type": "color",
+          "description": "--lume-g-color-indigo-30\n#2f2cb7"
+        },
+        "40": {
+          "value": "#3a49da",
+          "type": "color",
+          "description": "--lume-g-color-indigo-40\n#3a49da"
+        },
+        "50": {
+          "value": "#5867e8",
+          "type": "color",
+          "description": "--lume-g-color-indigo-50\n#5867e8"
+        },
+        "60": {
+          "value": "#7f8ced",
+          "type": "color",
+          "description": "--lume-g-color-indigo-60\n#7f8ced"
+        },
+        "65": {
+          "value": "#8e9bef",
+          "type": "color",
+          "description": "--lume-g-color-indigo-65\n#8e9bef"
+        },
+        "70": {
+          "value": "#9ea9f1",
+          "type": "color",
+          "description": "--lume-g-color-indigo-70\n#9ea9f1"
+        },
+        "80": {
+          "value": "#bec7f6",
+          "type": "color",
+          "description": "--lume-g-color-indigo-80\n#bec7f6"
+        },
+        "90": {
+          "value": "#e0e5f8",
+          "type": "color",
+          "description": "--lume-g-color-indigo-90\n#e0e5f8"
+        },
+        "95": {
+          "value": "#f1f3fb",
+          "type": "color",
+          "description": "--lume-g-color-indigo-95\n#f1f3fb"
+        }
+      },
+      "Hot Orange": {
+        "10": {
+          "value": "#281202",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-10\n#281202"
+        },
+        "15": {
+          "value": "#421604",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-15\n#421604"
+        },
+        "20": {
+          "value": "#4a2413",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-20\n#4a2413"
+        },
+        "30": {
+          "value": "#7e2600",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-30\n#7e2600"
+        },
+        "40": {
+          "value": "#aa3001",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-40\n#aa3001"
+        },
+        "50": {
+          "value": "#d83a00",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-50\n#d83a00"
+        },
+        "60": {
+          "value": "#ff5d2d",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-60\n#ff5d2d"
+        },
+        "65": {
+          "value": "#ff784f",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-65\n#ff784f"
+        },
+        "70": {
+          "value": "#ff906e",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-70\n#ff906e"
+        },
+        "80": {
+          "value": "#feb9a5",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-80\n#feb9a5"
+        },
+        "90": {
+          "value": "#ffded5",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-90\n#ffded5"
+        },
+        "95": {
+          "value": "#fef1ed",
+          "type": "color",
+          "description": "--lume-g-color-hot-orange-95\n#f3f1ed"
+        }
+      },
+      "Orange": {
+        "10": {
+          "value": "#201600",
+          "type": "color",
+          "description": "--lume-g-color-orange-10\n#201600"
+        },
+        "15": {
+          "value": "#371e03",
+          "type": "color",
+          "description": "--lume-g-color-orange-15\n#371e03"
+        },
+        "20": {
+          "value": "#3e2b02",
+          "type": "color",
+          "description": "--lume-g-color-orange-20\n#3e2b02"
+        },
+        "30": {
+          "value": "#5f3e02",
+          "type": "color",
+          "description": "--lume-g-color-orange-30\n#5f3e02"
+        },
+        "40": {
+          "value": "#825101",
+          "type": "color",
+          "description": "--lume-g-color-orange-40\n#825101"
+        },
+        "50": {
+          "value": "#a96404",
+          "type": "color",
+          "description": "--lume-g-color-orange-50\n#a96404"
+        },
+        "60": {
+          "value": "#dd7a01",
+          "type": "color",
+          "description": "--lume-g-color-orange-60\n#dd7a01"
+        },
+        "65": {
+          "value": "#f38303",
+          "type": "color",
+          "description": "--lume-g-color-orange-65\n#f38303"
+        },
+        "70": {
+          "value": "#fe9339",
+          "type": "color",
+          "description": "--lume-g-color-orange-70\n#fe9339"
+        },
+        "80": {
+          "value": "#ffba90",
+          "type": "color",
+          "description": "--lume-g-color-orange-80\n#ffba90"
+        },
+        "90": {
+          "value": "#fedfd0",
+          "type": "color",
+          "description": "--lume-g-color-orange-90\n#fedfd0"
+        },
+        "95": {
+          "value": "#fff1ea",
+          "type": "color",
+          "description": "--lume-g-color-orange-95\n#fff1ea"
+        }
+      },
+      "Yellow": {
+        "10": {
+          "value": "#281202",
+          "type": "color",
+          "description": "--lume-g-color-yellow-10\n#281202"
+        },
+        "15": {
+          "value": "#2e2204",
+          "type": "color",
+          "description": "--lume-g-color-yellow-15\n#2e2204"
+        },
+        "20": {
+          "value": "#4f2100",
+          "type": "color",
+          "description": "--lume-g-color-yellow-20\n#4f2100"
+        },
+        "30": {
+          "value": "#6f3400",
+          "type": "color",
+          "description": "--lume-g-color-yellow-30\n#6f3400"
+        },
+        "40": {
+          "value": "#8c4b02",
+          "type": "color",
+          "description": "--lume-g-color-yellow-40\n#bc4b02"
+        },
+        "50": {
+          "value": "#a86403",
+          "type": "color",
+          "description": "--lume-g-color-yellow-50\n#a86403"
+        },
+        "60": {
+          "value": "#ca8501",
+          "type": "color",
+          "description": "--lume-g-color-yellow-60\n#ca8501"
+        },
+        "65": {
+          "value": "#d79304",
+          "type": "color",
+          "description": "--lume-g-color-yellow-65\n#d79304"
+        },
+        "70": {
+          "value": "#e4a201",
+          "type": "color",
+          "description": "--lume-g-color-yellow-70\n#e4a201"
+        },
+        "80": {
+          "value": "#fcc003",
+          "type": "color",
+          "description": "--lume-g-color-yellow-80\n#fcc003"
+        },
+        "90": {
+          "value": "#f9e3b6",
+          "type": "color",
+          "description": "--lume-g-color-yellow-90\n#f9e3b6"
+        },
+        "95": {
+          "value": "#fbf3e0",
+          "type": "color",
+          "description": "--lume-g-color-yellow-95\n#fbf3e0"
+        }
+      },
+      "Green": {
+        "10": {
+          "value": "#071b12",
+          "type": "color",
+          "description": "--lume-g-color-green-10\n#071b12"
+        },
+        "15": {
+          "value": "#0c2912",
+          "type": "color",
+          "description": "--lume-g-color-green-15\n#0c2912"
+        },
+        "20": {
+          "value": "#1c3326",
+          "type": "color",
+          "description": "--lume-g-color-green-20\n#1c3326"
+        },
+        "30": {
+          "value": "#194e31",
+          "type": "color",
+          "description": "--lume-g-color-green-30\n#294e31"
+        },
+        "40": {
+          "value": "#396547",
+          "type": "color",
+          "description": "--lume-g-color-green-40\n#396547"
+        },
+        "50": {
+          "value": "#2e844a",
+          "type": "color",
+          "description": "--lume-g-color-green-50\n#2e844a"
+        },
+        "60": {
+          "value": "#3ba755",
+          "type": "color",
+          "description": "--lume-g-color-green-60\n#3ba755"
+        },
+        "65": {
+          "value": "#41b658",
+          "type": "color",
+          "description": "--lume-g-color-green-65\n#41b658"
+        },
+        "70": {
+          "value": "#45c65a",
+          "type": "color",
+          "description": "--lume-g-color-green-70\n#45c65a"
+        },
+        "80": {
+          "value": "#91db8b",
+          "type": "color",
+          "description": "--lume-g-color-green-80\n#91db8b"
+        },
+        "90": {
+          "value": "#cdefc4",
+          "type": "color",
+          "description": "--lume-g-color-green-90\n#cdefc4"
+        },
+        "95": {
+          "value": "#ebf7e6",
+          "type": "color",
+          "description": "--lume-g-color-green-95\n#ebf7e6"
+        }
+      },
+      "Teal": {
+        "10": {
+          "value": "#071b12",
+          "type": "color",
+          "description": "--lume-g-color-teal-10\n#071b12"
+        },
+        "15": {
+          "value": "#072825",
+          "type": "color",
+          "description": "--lume-g-color-teal-15\n#072825"
+        },
+        "20": {
+          "value": "#023434",
+          "type": "color",
+          "description": "--lume-g-color-teal-20\n#023434"
+        },
+        "30": {
+          "value": "#024d4c",
+          "type": "color",
+          "description": "--lume-g-color-teal-30\n#024d4c"
+        },
+        "40": {
+          "value": "#056764",
+          "type": "color",
+          "description": "--lume-g-color-teal-40\n#056764"
+        },
+        "50": {
+          "value": "#0b827c",
+          "type": "color",
+          "description": "--lume-g-color-teal-50\n#0b827c"
+        },
+        "60": {
+          "value": "#06a59a",
+          "type": "color",
+          "description": "--lume-g-color-teal-60\n#06a59a"
+        },
+        "65": {
+          "value": "#03b4a7",
+          "type": "color",
+          "description": "--lume-g-color-teal-65\n#03b4a7"
+        },
+        "70": {
+          "value": "#01c3b3",
+          "type": "color",
+          "description": "--lume-g-color-teal-70\n#01c3b3"
+        },
+        "80": {
+          "value": "#04e1cb",
+          "type": "color",
+          "description": "--lume-g-color-teal-80\n#04e1cb"
+        },
+        "90": {
+          "value": "#acf3e4",
+          "type": "color",
+          "description": "--lume-g-color-teal-90\n#acf3e4"
+        },
+        "95": {
+          "value": "#def9f3",
+          "type": "color",
+          "description": "--lume-g-color-teal-95\n#def9f3"
+        }
+      },
+      "Cloud Blue": {
+        "10": {
+          "value": "#001a28",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-10\n#001a28"
+        },
+        "15": {
+          "value": "#0a2636",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-15\n#0a2636"
+        },
+        "20": {
+          "value": "#023248",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-20\n#023248"
+        },
+        "30": {
+          "value": "#084968",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-30\n#084968"
+        },
+        "40": {
+          "value": "#05628a",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-40\n#05628a"
+        },
+        "50": {
+          "value": "#107cad",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-50\n#107cad"
+        },
+        "60": {
+          "value": "#0d9dda",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-60\n#0d9dda"
+        },
+        "65": {
+          "value": "#08abed",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-65\n#08abed"
+        },
+        "70": {
+          "value": "#1ab9ff",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-70\n#1ab9ff"
+        },
+        "80": {
+          "value": "#90d0fe",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-80\n#90d0fe"
+        },
+        "90": {
+          "value": "#cfe9fe",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-90\n#cfe9fe"
+        },
+        "95": {
+          "value": "#eaf5fe",
+          "type": "color",
+          "description": "--lume-g-color-cloud-blue-95\n#eaf5fe"
+        }
+      },
+      "Purple": {
+        "10": {
+          "value": "#240643",
+          "type": "color",
+          "description": "--lume-g-color-purple-10\n#240643"
+        },
+        "15": {
+          "value": "#300b60",
+          "type": "color",
+          "description": "--lume-g-color-purple-15\n#300b60"
+        },
+        "20": {
+          "value": "#401075",
+          "type": "color",
+          "description": "--lume-g-color-purple-20\n#401075"
+        },
+        "30": {
+          "value": "#5a1ba9",
+          "type": "color",
+          "description": "--lume-g-color-purple-30\n#5a1ba9"
+        },
+        "40": {
+          "value": "#7526e3",
+          "type": "color",
+          "description": "--lume-g-color-purple-40\n#7526e3"
+        },
+        "50": {
+          "value": "#9050e9",
+          "type": "color",
+          "description": "--lume-g-color-purple-50\n#9050e9"
+        },
+        "60": {
+          "value": "#ad7bee",
+          "type": "color",
+          "description": "--lume-g-color-purple-60\n#ad7bee"
+        },
+        "65": {
+          "value": "#b78def",
+          "type": "color",
+          "description": "--lume-g-color-purple-65\n#b78def"
+        },
+        "70": {
+          "value": "#c29ef1",
+          "type": "color",
+          "description": "--lume-g-color-purple-70\n#c29ef1"
+        },
+        "80": {
+          "value": "#d7bff2",
+          "type": "color",
+          "description": "--lume-g-color-purple-80\n#d7bff2"
+        },
+        "90": {
+          "value": "#ece1f9",
+          "type": "color",
+          "description": "--lume-g-color-purple-90\n#ece1f9"
+        },
+        "95": {
+          "value": "#f6f2fb",
+          "type": "color",
+          "description": "--lume-g-color-purple-95\n#f6f2fb"
+        }
+      },
+      "Violet": {
+        "10": {
+          "value": "#2e0039",
+          "type": "color",
+          "description": "--lume-g-color-violet-10\n#2e0039"
+        },
+        "15": {
+          "value": "#3d0157",
+          "type": "color",
+          "description": "--lume-g-color-violet-15\n#3d0157"
+        },
+        "20": {
+          "value": "#481a54",
+          "type": "color",
+          "description": "--lume-g-color-violet-20\n#481a54"
+        },
+        "30": {
+          "value": "#730394",
+          "type": "color",
+          "description": "--lume-g-color-violet-30\n#730394"
+        },
+        "40": {
+          "value": "#9602c7",
+          "type": "color",
+          "description": "--lume-g-color-violet-40\n#9602c7"
+        },
+        "50": {
+          "value": "#ba01ff",
+          "type": "color",
+          "description": "--lume-g-color-violet-50\n#ba01ff"
+        },
+        "60": {
+          "value": "#cb65ff",
+          "type": "color",
+          "description": "--lume-g-color-violet-60\n#cb65ff"
+        },
+        "65": {
+          "value": "#d17dfe",
+          "type": "color",
+          "description": "--lume-g-color-violet-65\n#d17dfe"
+        },
+        "70": {
+          "value": "#d892fe",
+          "type": "color",
+          "description": "--lume-g-color-violet-70\n#d892fe"
+        },
+        "80": {
+          "value": "#e5b9fe",
+          "type": "color",
+          "description": "--lume-g-color-violet-80\n#e5b9fe"
+        },
+        "90": {
+          "value": "#f2defe",
+          "type": "color",
+          "description": "--lume-g-color-violet-90\n#f2defe"
+        },
+        "95": {
+          "value": "#f9f0ff",
+          "type": "color",
+          "description": "--lume-g-color-violet-95\n#f9f0ff"
+        }
+      },
+      "Pink": {
+        "10": {
+          "value": "#370114",
+          "type": "color",
+          "description": "--lume-g-color-pink-10\n#370114"
+        },
+        "15": {
+          "value": "#4b0620",
+          "type": "color",
+          "description": "--lume-g-color-pink-15\n#4b0620"
+        },
+        "20": {
+          "value": "#61022a",
+          "type": "color",
+          "description": "--lume-g-color-pink-20\n#61022a"
+        },
+        "30": {
+          "value": "#8a033e",
+          "type": "color",
+          "description": "--lume-g-color-pink-30\n#8a033e"
+        },
+        "40": {
+          "value": "#b60554",
+          "type": "color",
+          "description": "--lume-g-color-pink-40\n#b60554"
+        },
+        "50": {
+          "value": "#e3066a",
+          "type": "color",
+          "description": "--lume-g-color-pink-50\n#e3066a"
+        },
+        "60": {
+          "value": "#ff538a",
+          "type": "color",
+          "description": "--lume-g-color-pink-60\nff538a"
+        },
+        "65": {
+          "value": "#fe7298",
+          "type": "color",
+          "description": "--lume-g-color-pink-65\nfe7298"
+        },
+        "70": {
+          "value": "#fe8aa7",
+          "type": "color",
+          "description": "--lume-g-color-pink-70\n#fe8aa7"
+        },
+        "80": {
+          "value": "#fdb6c5",
+          "type": "color",
+          "description": "--lume-g-color-pink-80\n#fdb6c5"
+        },
+        "90": {
+          "value": "#fddde3",
+          "type": "color",
+          "description": "--lume-g-color-pink-90\n#fddde3"
+        },
+        "95": {
+          "value": "#fef0f3",
+          "type": "color",
+          "description": "--lume-g-color-pink-95\n#fef0f3"
+        }
+      },
+      "Red": {
+        "10": {
+          "value": "#300c01",
+          "type": "color",
+          "description": "--lume-g-color-red-10\n#300c01"
+        },
+        "15": {
+          "value": "#4a0c04",
+          "type": "color",
+          "description": "--lume-g-color-red-15\n#4a0c04"
+        },
+        "20": {
+          "value": "#640103",
+          "type": "color",
+          "description": "--lume-g-color-red-20\n#640103"
+        },
+        "30": {
+          "value": "#8e030f",
+          "type": "color",
+          "description": "--lume-g-color-red-30\n#8e030f"
+        },
+        "40": {
+          "value": "#ba0517",
+          "type": "color",
+          "description": "--lume-g-color-red-40\n#ba0517"
+        },
+        "50": {
+          "value": "#ea001e",
+          "type": "color",
+          "description": "--lume-g-color-red-50\n#ea001e"
+        },
+        "60": {
+          "value": "#fe5c4c",
+          "type": "color",
+          "description": "--lume-g-color-red-60\n#fe5c4c"
+        },
+        "65": {
+          "value": "#fe7765",
+          "type": "color",
+          "description": "--lume-g-color-red-65\n#fe7765"
+        },
+        "70": {
+          "value": "#fe8f7d",
+          "type": "color",
+          "description": "--lume-g-color-70\n#fe8f7d"
+        },
+        "80": {
+          "value": "#feb8ab",
+          "type": "color",
+          "description": "--lume-g-color-red-80\n#feb8ab"
+        },
+        "90": {
+          "value": "#feded8",
+          "type": "color",
+          "description": "--lume-g-color-red-90\n#feded8"
+        },
+        "95": {
+          "value": "#fef1ee",
+          "type": "color",
+          "description": "--lume-g-color-red-95\n#fef1ee"
+        }
+      }
     }
   },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "core"
+      "global"
     ]
   }
 }
